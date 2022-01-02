@@ -1,6 +1,6 @@
 # React7APiGallery - config file is not present here. In order to run app:
 1. create an account on flickr.com 
-2.create your own api key on their website
+2. create your own api key on their website
 3. create config js file with the apiKey
 config.js
 const apiKey="yourKeyHere"
